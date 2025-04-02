@@ -50,4 +50,4 @@ dist = wavealg(mat)
 if dist is not None:
     print(dist)
 else:
-    print("Путь не найден!")
+    print("Нет пути")
